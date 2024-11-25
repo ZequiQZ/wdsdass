@@ -63,8 +63,8 @@ if(empty($_SESSION["id"])){
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 			<div class="navbar-nav mr-auto">
 				<div class="offset-md-1 mr-auto text-center"></div>
-				<a class="nav-item nav-link text-justify active ml-3 hover-primary" href="#">Inicio</a>
-				<a class="nav-item nav-link text-justify ml-3 hover-primary" href="#">Constancias</a>
+				<a class="nav-item nav-link text-justify active ml-3 hover-primary" href="inicio.php">Inicio</a>
+				<a class="nav-item nav-link text-justify ml-3 hover-primary" href="constancias.php">Constancias</a>
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle text-justify ml-3" href="" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						Educación
